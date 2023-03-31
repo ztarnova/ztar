@@ -1,0 +1,28 @@
+Sobre la barra de navegación de letras 
+GET obtener-juegos/:empiezaConLetra?
+Si quieres ordenarlos así
+obtener-juegos/a
+Te retornaría los juegos que comienzan con a
+Ese endpoint lo llamas al cargar la página
+Si presionas la etiqueta b, le pasas ese parámetro
+Obviamente todo dinámico
+Las tabs de letras igual deberías cargarlas de manera dinámica
+aunque podrías hacer algo tipo
+<div id="letra" class="a"> A </div>
+
+
+document.getElementById('letra').addEventListener( (evt) => {
+
+           const juegosACargar = endpointCuliao;
+
+Y acá haces la carga y todo eso
+
+
+});
+await fetch(obtener-juegos/${this.class})
+
+
+
+Me llamo ztar (se prenuncia estár), soy un cazador de logros que pertenece a las comunidades AScouts &
+HispAchievers.En mis tiempos libres me dedico a cazar logros y completar juegos al 100% in-game en la plataforma Steam y
+          algunas veces en RetroAchievements y Blizzard.
